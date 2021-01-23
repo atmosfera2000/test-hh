@@ -1,0 +1,46 @@
+.row {
+    margin-top: 3rem;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    padding-top: 1rem;
+}
+
+form .form-group {
+    margin-bottom: 4rem;
+}
+
+form label {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+}
+
+form button {
+    margin-bottom: 4rem;
+}
+
+.spinner-block {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.spinner-block .spinner-border {
+    width: 4rem;
+    height: 4rem;    
+}
+
+.low-opacity {
+    opacity: .2;
+}
+
